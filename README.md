@@ -1,2 +1,1 @@
-# test.github.io
-test html
+# CS61A and python practise
